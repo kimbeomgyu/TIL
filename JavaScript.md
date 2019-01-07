@@ -1,6 +1,6 @@
-#JavaScript
+# JavaScript
 
-##ES6문법
+## ES6문법
 
 ### let, const
 `let`은 block-level에서 변할 수 있는 변수이다.
